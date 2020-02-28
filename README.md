@@ -1,3 +1,6 @@
+### This is my submitted assignment to the programming assignment 2 from week 3:
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
